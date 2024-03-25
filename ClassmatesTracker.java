@@ -30,7 +30,7 @@ public class ClassmatesTracker {
 
         // Scanner for user input.
         Scanner scanner = new Scanner(System.in);
-        System.out.println("This program was created to foster friendships. It helps you see who you're taking two or more classes with this semester.");
+        System.out.println("Let's find out who you're taking two or more classes with this semester.");
         System.out.print("\nEnter your full name on record: ");
         String studentName = scanner.nextLine();
         scanner.close();
