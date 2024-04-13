@@ -34,7 +34,7 @@ public class TextEditor extends JFrame implements ActionListener {
 
         // Set JFrame properties
         setJMenuBar(menuBar);
-        setTitle("Basic Text Editor");
+        setTitle("Text Editor");
         setSize(800, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
