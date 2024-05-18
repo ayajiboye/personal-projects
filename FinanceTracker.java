@@ -55,6 +55,8 @@ public class FinanceTracker {
             tracker.addTransaction(type, amount);
         }
 
+
+        
         tracker.showTransactions();
         scanner.close();
     }
