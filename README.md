@@ -7,4 +7,3 @@ P3 - Basic finance tracker: This program allows users to input transactions as e
 
 P4 - Text editor: This program is a text editor built using Java Swing. It provides basic text editing functionalities like creating new documents, opening existing files, editing their content, and saving changes. The user interface includes a text area for typing and editing text, along with a menu bar that contains options for opening, saving, and creating new files. Actions like opening and saving files are handled through dialog boxes that allow users to select files on their computer. The text editor is capable of handling plain text files, making it suitable for simple text editing tasks.
 
-
